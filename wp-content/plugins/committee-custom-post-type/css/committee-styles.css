@@ -1,0 +1,45 @@
+/* css/committee-styles.css */
+.committee-thumbnail img {
+    max-width: 10%;
+    height: auto;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    
+}
+.entry-title {
+    font-size: 1em !important;
+    margin-bottom: 10px;
+    color: var(--dark-blue);
+}
+.entry-content {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+
+.va-committee img {
+    margin: 2% 1% !important;
+    float: left !important;
+    height: 150px;
+}
+
+.va-committee h2.wp-block-heading {
+    margin: 61px 0px 0px 0px;
+    font-size: 1em;
+    color: var(--dark-blue);
+}
+figure.wp-block-image {
+    margin: 0px;
+}
+
+.va-committee hr.wp-block-separator.has-alpha-channel-opacity {
+    width: 180px;
+    margin: 0px;
+    color: #172e51;
+    border-top: 9px solid #172e51;
+}
+
+.va-committee h1, .va-committee h2, .va-committee h3, .va-committee h4, .va-committee h5, .va-committee h6 {
+    font-family: var(--font-bitter);
+    color: #172e51;
+}
