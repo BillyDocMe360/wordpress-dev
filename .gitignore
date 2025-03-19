@@ -1,0 +1,11 @@
+# Ignore WordPress core directories (optional if you only track custom code)
+wp-admin/
+wp-includes/
+
+# Ignore uploads and other non-code directories
+
+# Optionally ignore your configuration file if it has sensitive info
+wp-config.php
+
+# OS generated files
+.DS_Store
